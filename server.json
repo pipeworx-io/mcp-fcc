@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/fcc",
+  "title": "Fcc",
+  "description": "FCC public geo/census APIs (geo.fcc.gov) MCP.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/fcc",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-fcc",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/fcc/mcp"
+    }
+  ]
+}
