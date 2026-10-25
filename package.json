@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fcc",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "FCC public geo/census APIs (geo.fcc.gov) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6e0e18603021ef323a126506e39e08d421d198cd2efd3b982311d68679edff11",
-    "sourceCommit": "712a5e0171ea24483214329d0cd7efdfd9b80352"
+    "sourceHash": "v1-592549f42b3c8f7ab4183410d846323ea3335ac9282416bf329c744c2a17b176",
+    "sourceCommit": "722087a9bda73f85942e8f6bbfd598544cb0d490"
   }
 }
