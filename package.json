@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-fcc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "FCC public geo/census APIs (geo.fcc.gov) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "fcc",
     "gatewaySlug": "fcc",
-    "sourceHash": "v1-f3225263dc2a72582a1e9ab7d221cd250cabcd00a78ddd9448bb704da9665709",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-a3ee4fbbf08548b86c908a92e9904e60f1c397a0fee7b4c70f31477e09be4ee2",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
